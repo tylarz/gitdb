@@ -50,7 +50,7 @@ const config = {
    file: 'FILENAME', // <-- JSON filename, If not passed defaults to : database
    token: 'YOUR_TOKEN'
 }
-const git = new(require('@arugas/github-db'))(config)
+const git = new(require('@arugas/gitdb'))(config)
 ```
 
 ### Fetch & Save JSON
