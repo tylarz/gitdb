@@ -9,7 +9,7 @@ Because it's not in npmjs, you have to add this in **package.json**
 ```
 {
    "dependencies": {
-      "@arugas/github-db": "git+https://github.com/arugas/github-db",
+      "@arugas/gitdb": "git+https://github.com/arugas/gitdb",
    }
 }
 ```
