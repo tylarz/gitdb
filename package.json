@@ -1,0 +1,21 @@
+{
+  "name": "gitdb",
+  "version": "2.0.0",
+  "description": "Lightweight Cloud based JSON Database",
+  "homepage": "https://github.com/arugas/gitdb",
+  "keywords": [ "database", "nosql", "json", "github" ],
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arugas",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.1.1",
+    "nodejs-base64-converter": "^1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arugas/gitdb.git"
+  }
+}
